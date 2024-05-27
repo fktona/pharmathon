@@ -19,7 +19,7 @@ Nav() {
               </li>
         </ul>
         <div className='font-bold text-[20px] px-8 lg:text-[25px]'>
-            <span>Drugcop</span>
+            <span>DrugsCo</span>
         </div>
         <button className='hidden md:block'>
           

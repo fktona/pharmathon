@@ -11,7 +11,7 @@ export default function Home() {
       <Problem/>
       <Solution/>
       <BENEFITS/>
-      <div className="tex-center py-12 text-[40px] text-center font-bold">Drugcop</div>
+      <div className="tex-center py-12 text-[40px] text-center font-bold">DrugsCo</div>
     </main>
   );
 }
